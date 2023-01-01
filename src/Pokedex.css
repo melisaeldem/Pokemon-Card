@@ -1,0 +1,17 @@
+.Pokedex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.Pokedex-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.green {
+  color: #4caf50;
+}
+.red {
+  color: #e91e63;
+}
